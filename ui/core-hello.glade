@@ -185,7 +185,7 @@ We, the Core Linux Developers, hope that you will enjoy using Core Linux as much
               <object class="GtkButton" id="wiki">
                 <property name="label" translatable="yes">Wiki</property>
                 <property name="name">github</property>
-                <property name="visible">True</property>
+                <property name="visible">false</property>
                 <property name="can-focus">False</property>
                 <property name="receives-default">True</property>
                 <property name="tooltip-text" translatable="yes">Web resource</property>
@@ -266,7 +266,7 @@ We, the Core Linux Developers, hope that you will enjoy using Core Linux as much
               <object class="GtkButton" id="donate">
                 <property name="label" translatable="yes">Donate</property>
                 <property name="name">donate</property>
-                <property name="visible">True</property>
+                <property name="visible">false</property>
                 <property name="can-focus">False</property>
                 <property name="receives-default">True</property>
                 <property name="tooltip-text" translatable="yes">Web resource</property>
@@ -298,7 +298,7 @@ We, the Core Linux Developers, hope that you will enjoy using Core Linux as much
                       <!-- <item id="by">Беларуская</item> -->
                       <!-- <item id="ca">Català</item> -->
                       <!-- <item id="cs">Čeština</item> -->
-                      <item id="de">Deutsch</item>
+                      <!--<item id="de">Deutsch</item> -->
                       <item id="es">Español</item>
                       <!-- <item id="et">Eesti</item> -->
                       <!-- <item id="fr">Français</item> -->
@@ -308,7 +308,7 @@ We, the Core Linux Developers, hope that you will enjoy using Core Linux as much
                       <!-- <item id="nb">Norsk Bokmål</item> -->
                       <!-- <item id="nl">Nederlands</item> -->
                       <!-- <item id="pl">Polski</item> -->
-                      <item id="pt-BR">Português Brasileiro</item>
+                      <!-- <item id="pt-BR">Português Brasileiro</item> -->
                       <!-- <item id="ru">Русский</item> -->
                       <!-- <item id="sk">Slovenčina</item> -->
                       <!-- <item id="sv">Svenska</item> -->
@@ -326,12 +326,12 @@ We, the Core Linux Developers, hope that you will enjoy using Core Linux as much
                 </child>
                 <child>
                   <object class="GtkLabel" id="autostartlabel">
-                    <property name="visible">false</property>
+                    <property name="visible">fasle</property>
                     <property name="can-focus">False</property>
                     <property name="halign">end</property>
                     <property name="valign">center</property>
                     <property name="vexpand">True</property>
-                    <property name="label" translatable="yes">Desarrollado por CachyOS</property>
+                    <property name="label" translatable="yes">Iniciar en el arranque</property>
                   </object>
                   <packing>
                     <property name="expand">True</property>
@@ -342,7 +342,7 @@ We, the Core Linux Developers, hope that you will enjoy using Core Linux as much
                  <child>
                   <object class="GtkSwitch" id="autostart">
                     <property name="name">autostart</property>
-                    <property name="visible">true</property>
+                    <property name="visible">false</property>
                     <property name="can-focus">True</property>
                     <property name="valign">center</property>
                     <property name="vexpand">True</property>
