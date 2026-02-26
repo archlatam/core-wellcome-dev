@@ -1,5 +1,5 @@
-about-dialog-title = EosOS Linux Hello
-about-dialog-comments = EosOS Linux-i tervituskuva
+about-dialog-title = Core Linux Hello
+about-dialog-comments = Core Linux-i tervituskuva
 
 # Tweaks page
 tweaks = Kohandused
@@ -81,12 +81,12 @@ calamares-install-type = Calamares'i paigalduse tüüp
 # Main Page (body)
 offline-error = Võrgupaigaldust ei saa alustada! Internetiühendus puudub
 unsupported-hw-warning = Proovite paigaldada riistvarale, mida praegune ISO ei toeta, teie paigaldus ei kuulu toe alla
-outdated-version-warning = Kasutate EosOS Linux ISO vanemat versiooni, palun kaaluge paigaldamiseks uusima versiooni kasutamist
+outdated-version-warning = Kasutate Core Linux ISO vanemat versiooni, palun kaaluge paigaldamiseks uusima versiooni kasutamist
 testing-iso-warning = Kasutate testimiseks mõeldud ISO-d, testimis-ISO-sid ei peeta stabiilseteks ja kasutusvalmiteks
 tweaksbrowser-label = Rakendused/Kohandused
 appbrowser-label = Paigalda rakendusi
 launch-start-label = Developed by CachyOS
-welcome-title = Tere tulemast EosOS Linux-i!
+welcome-title = Tere tulemast Core Linux-i!
 welcome-body =
     Täname, et liitusite!
-    Meie, EosOS Linux-i arendajad, tervitame teid. Allolevad lingid aitavad teil oma uue operatsioonisüsteemiga.
+    Meie, Core Linux-i arendajad, tervitame teid. Allolevad lingid aitavad teil oma uue operatsioonisüsteemiga.

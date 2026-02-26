@@ -1,6 +1,6 @@
 # About dialog
-about-dialog-title = תוכנית קבלת הפנים של EosOS Linux
-about-dialog-comments = תוכנית קבלת פנים עבור EosOS Linux
+about-dialog-title = תוכנית קבלת הפנים של Core Linux
+about-dialog-comments = תוכנית קבלת פנים עבור Core Linux
 
 # Tweaks page
 tweaks = התאמות
@@ -84,12 +84,12 @@ calamares-install-type = סוג ההתקנה של Calamares
 # Main Page (body)
 offline-error = אין אפשרות להתחיל בהורדה מקוונת! אין חיבור לאינטרנט
 unsupported-hw-warning = מתבצע ניסיון להתקנה על חומרה שאינה נתמכת על ידי ה־ISO הנוכחי, התקנה זו לא תהיה זכאית לקבלת תמיכה
-outdated-version-warning = מחשבך מריץ גרסה ישנה של ה־ISO של EosOS Linux, נא לשקול להשתמש בגרסה העדכנית לצורך התקנת המערכת
+outdated-version-warning = מחשבך מריץ גרסה ישנה של ה־ISO של Core Linux, נא לשקול להשתמש בגרסה העדכנית לצורך התקנת המערכת
 testing-iso-warning = מחשבך מריץ ISO לבדיקה, דמויות ISO לבדיקה לא נחשבות יציבות ומוכנות לשימוש
 tweaksbrowser-label = יישומים/התאמות
 appbrowser-label = התקנת יישומים
 launch-start-label = Developed by CachyOS
-welcome-title = ברוך בואך אל EosOS Linux!
+welcome-title = ברוך בואך אל Core Linux!
 welcome-body =
     תודה שהצטרפת!
-    אנחנו, מפתחי EosOS Linux, מקדמים אותך בברכה. הקישורים הבאים יעזרו לך עם מערכת ההפעלה החדשה שלך.
+    אנחנו, מפתחי Core Linux, מקדמים אותך בברכה. הקישורים הבאים יעזרו לך עם מערכת ההפעלה החדשה שלך.

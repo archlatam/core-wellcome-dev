@@ -191,13 +191,13 @@ fn create_apps_section() -> Option<gtk::Box> {
 
     // Check first btn.
     if Path::new("/sbin/eos-pi").exists() {
-        let eos_pi = gtk::Button::with_label("EosOS PackageInstaller");
+        let eos_pi = gtk::Button::with_label("Core PackageInstaller");
         eos_pi.connect_clicked(on_appbtn_clicked);
         box_collection.pack_start(&eos_pi, true, true, 2);
     }
     // Check second btn.
     if Path::new("/sbin/eos-kernel-manager").exists() {
-        let eos_km = gtk::Button::with_label("EosOS Kernel Manager");
+        let eos_km = gtk::Button::with_label("Core Kernel Manager");
         eos_km.connect_clicked(on_appbtn_clicked);
         box_collection.pack_start(&eos_km, true, true, 2);
     }
@@ -316,9 +316,9 @@ fn on_clear_pkgcache_btn_clicked(_: &gtk::Button) {
 fn on_appbtn_clicked(button: &gtk::Button) {
     // Get button label.
     let name = button.label().unwrap();
-    let binname = if name == "EosOS PackageInstaller" {
+    let binname = if name == "Core PackageInstaller" {
         "eos-pi"
-    } else if name == "EosOS Kernel Manager" {
+    } else if name == "Core Kernel Manager" {
         "eos-kernel-manager"
     } else {
         ""

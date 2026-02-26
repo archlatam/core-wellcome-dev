@@ -1,6 +1,6 @@
 # About dialog
-about-dialog-title = Benvinguda del EosOS Linux
-about-dialog-comments = Pantalla de benvinguda per al EosOS Linux
+about-dialog-title = Benvinguda del Core Linux
+about-dialog-comments = Pantalla de benvinguda per al Core Linux
 
 # Tweaks page
 tweaks = Retocs
@@ -76,12 +76,12 @@ calamares-install-type = Tipus d'instal·lació per al Calamares
 # Main Page (body)
 offline-error = No es pot iniciar la instal·lació en línia! No hi ha connexió a Internet.
 unsupported-hw-warning = Esteu provant d'instal·lar-lo en un maquinari que no és compatible amb la imatge ISO actual. La vostra instal·lació no serà apta per a rebre suport.
-outdated-version-warning = Esteu usant una versió anterior del EosOS Linux. Considereu usar-ne la versió més recent per a les instal·lacions.
+outdated-version-warning = Esteu usant una versió anterior del Core Linux. Considereu usar-ne la versió més recent per a les instal·lacions.
 testing-iso-warning = Esteu usant una imatge ISO de prova. Les ISO de prova no es consideren estables i llestes per a un ús productiu.
 tweaksbrowser-label = Aplicacions / Retocs
 appbrowser-label = Instal·leu apliacions
 launch-start-label = Developed by CachyOS
-welcome-title = Us donem la benvinguda al EosOS Linux!
+welcome-title = Us donem la benvinguda al Core Linux!
 welcome-body =
     Gràcies per unir-te!
-    Nosaltres, els desenvolupadors d'EosOS Linux, et donem la benvinguda. Els enllaços següents t'ajudaran amb el teu nou sistema operatiu.
+    Nosaltres, els desenvolupadors d'Core Linux, et donem la benvinguda. Els enllaços següents t'ajudaran amb el teu nou sistema operatiu.

@@ -1,16 +1,27 @@
-<big>Getting help</big>
-Although EosOS Linux is designed to work as best as possible, we don't claim it's perfect. There can be times when things go wrong, you might have questions and a desire to learn more, or just want to personalize it to suit your tastes. This page provides details of some available resources to help you!
-<b>Search the web</b>
-Perhaps the first place to look for generic Linux help is by using your favorite search engine. Just include words like 'Linux', 'EosOS Linux' or 'Arch' in your search query.
-As EosOS Linux is based on Arch Linux, guides and tips designed for Arch usually apply to EosOS Linux too.
-<b></b>
-ForLook in the forums specific help with EosOS Linux we have a dedicated online forum where you can search for topics, or create one yourself! This is probably the next best place for collaboration, discussion and assistance. Ask for help, post your thoughts, or outline some suggestions.
-The EosOS Linux forum is divided into sub-forums for different topics and environments, please post your query in the appropriate place!
-<b>Other resources</b>
-- <a href="https://aur.archlinux.org">AUR Repository</a> - Extra software not in the regular repositories, built from source.
-- <a href="https://discord.gg/4r8AmxSB2B">EosOS Linux Discord Server</a> - Official Discord for EosOS Linux.
-- <a href="https://wiki.archlinux.org">Arch Wiki</a> - Official wiki for Arch.
-<b>Suggestions</b>
-Do you have a suggestion on how we can make EosOS Linux better? Did you find something you want included, or want to help out? Please let us know by posting your suggestion on the Discord server or github.
-Thank you!
-I hope you enjoy using EosOS Linux!
+<big>Hilfe bekommen</big>
+
+Obwohl Core Linux entwickelt wurde, um bestmöglich zu funktionieren, behaupten wir nicht, dass es perfekt ist. Es kann Zeiten geben, in denen etwas schief geht, du hast vielleicht Fragen und möchtest mehr lernen, oder möchtest es einfach an deinen Geschmack anpassen. Diese Seite gibt Details zu einigen verfügbaren Ressourcen, die dir helfen!
+
+<b>Im Web suchen</b>
+
+Vielleicht ist der erste Ort, um allgemeine Linux-Hilfe zu suchen, deine Lieblings-Suchmaschine. Füge einfach Wörter wie 'Linux', 'Core Linux' oder 'Arch' in deine Suche ein.
+Da Core Linux auf Arch Linux basiert, gelten Anleitungen und Tipps für Arch normalerweise auch für Core Linux.
+
+<b>Schau in den Foren</b>
+
+Für spezifische Hilfe mit Core Linux haben wir ein dediziertes Online-Forum, in dem du nach Themen suchen oder selbst eines erstellen kannst! Dies ist wahrscheinlich der nächstbeste Ort für Zusammenarbeit, Diskussion und Unterstützung. Bitte um Hilfe, teile deine Gedanken oder skizziere einige Vorschläge.
+Das Core Linux-Forum ist in Unterforen für verschiedene Themen und Umgebungen unterteilt, bitte veröffentliche deine Anfrage an der entsprechenden Stelle!
+
+<b>Andere Ressourcen</b>
+
+- <a href="https://aur.archlinux.org">AUR-Repository</a> - Zusätzliche Software nicht in den regulären Repositories, aus Quellcode erstellt.
+- <a href="https://discord.gg/4r8AmxSB2B">Core Linux Discord Server</a> - Offizieller Discord für Core Linux.
+- <a href="https://wiki.archlinux.org">Arch Wiki</a> - Offizielles Wiki für Arch.
+
+<b>Vorschläge</b>
+
+Hast du einen Vorschlag, wie wir Core Linux verbessern können? Hast du etwas gefunden, das du einbezogen sehen möchtest, oder möchtest du helfen? Bitte lass es uns wissen, indem du deinen Vorschlag auf dem Discord-Server oder GitHub veröffentlichst.
+
+Danke!
+
+Ich hoffe, du genießt Core Linux!

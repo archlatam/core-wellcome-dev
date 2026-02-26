@@ -1,6 +1,6 @@
 # About dialog
-about-dialog-title = EosOS Linux Hello
-about-dialog-comments = Tela de Boas-Vindas do EosOS Linux
+about-dialog-title = Core Linux Hello
+about-dialog-comments = Tela de Boas-Vindas do Core Linux
 
 # Tweaks page
 tweaks = Ajustes
@@ -54,10 +54,10 @@ install-snapper-title = Instalar Suporte a Snapper
 button-about-tooltip = Sobre
 button-web-resource-tooltip = Página Web
 button-development-label = Desenvolvimento
-button-software-label = Aplicações do EosOS Linux
+button-software-label = Aplicações do Core Linux
 button-donate-label = Doar
 button-forum-label = Discord
-button-installer-label = Instalar EosOS Linux
+button-installer-label = Instalar Core Linux
 button-involved-label = Suporte
 button-readme-label = Leia-Me
 button-release-info-label = Informações da Versão
@@ -75,13 +75,13 @@ calamares-install-type = Calamares install type
 
 # Main Page (body)
 offline-error = Não foi possível iniciar a instalação! Sem conexão com a internet.
-unsupported-hw-warning = Você está tentando instalar o EosOS Linux em um hardware incompatível com a versão atual. Sua versão não é elegível para suporte.
-outdated-version-warning = Você está usando uma versão antiga do EosOS Linux, considere instalar uma versão atualizada.
+unsupported-hw-warning = Você está tentando instalar o Core Linux em um hardware incompatível com a versão atual. Sua versão não é elegível para suporte.
+outdated-version-warning = Você está usando uma versão antiga do Core Linux, considere instalar uma versão atualizada.
 testing-iso-warning = Você está usando uma ISO de testes que não é estável para uso.
 tweaksbrowser-label = Aplicativos / Ajustes
 appbrowser-label = Instalar Aplicativos
 launch-start-label = Desenvolvido por CachyOS
-welcome-title = Bem-Vindo ao EosOS Linux!
+welcome-title = Bem-Vindo ao Core Linux!
 welcome-body =
     Obrigado por se juntar a nós!
-    Nós, os desenvolvedores do EosOS Linux, damos-lhe as boas-vindas. Os links abaixo ajudarão com o seu novo sistema operacional.
+    Nós, os desenvolvedores do Core Linux, damos-lhe as boas-vindas. Os links abaixo ajudarão com o seu novo sistema operacional.

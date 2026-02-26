@@ -1,6 +1,6 @@
 # About dialog
-about-dialog-title = EosOS Linux 欢迎
-about-dialog-comments = EosOS Linux 的欢迎界面
+about-dialog-title = Core Linux 欢迎
+about-dialog-comments = Core Linux 的欢迎界面
 
 # Tweaks page
 tweaks = 调整
@@ -67,12 +67,12 @@ section-project = 项目
 # Main Page (body)
 offline-error = 无法启动在线安装！无网络连接
 unsupported-hw-warning = 如果您试图在当前 ISO 不支持的硬件上进行安装，您的安装将无法获得支持
-outdated-version-warning = 您正在使用旧版本的 EosOS Linux ISO，请考虑使用最新版本进行安装
+outdated-version-warning = 您正在使用旧版本的 Core Linux ISO，请考虑使用最新版本进行安装
 testing-iso-warning = 您正在使用测试版 ISO，测试版 ISO 不被认为是稳定且可供使用的
 tweaksbrowser-label = 应用/调整
 appbrowser-label = 安装应用
 launch-start-label = 由 CachyOS 开发
-welcome-title = 欢迎使用 EosOS Linux！
+welcome-title = 欢迎使用 Core Linux！
 welcome-body =
     感谢您的加入！
-    我们是EosOS Linux开发人员，欢迎您。以下链接将帮助您使用新的操作系统。
+    我们是Core Linux开发人员，欢迎您。以下链接将帮助您使用新的操作系统。

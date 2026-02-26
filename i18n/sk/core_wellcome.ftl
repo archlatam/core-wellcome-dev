@@ -1,6 +1,6 @@
 # O dialógu
-about-dialog-title = EosOS Linux Vitajte
-about-dialog-comments = Úvodná obrazovka pre EosOS Linux
+about-dialog-title = Core Linux Vitajte
+about-dialog-comments = Úvodná obrazovka pre Core Linux
 
 # Stránka s vylepšeniami
 tweaks = Vylepšenia
@@ -76,12 +76,12 @@ calamares-install-type = Typ inštalácie Calamares
 # Hlavná stránka (telo)
 offline-error = Nedá sa spustiť online inštalácia! Žiadne internetové pripojenie
 unsupported-hw-warning = Pokúšate sa nainštalovať na hardvér, ktorý nie je podporovaný aktuálnou verziou ISO, vaša inštalácia nebude mať nárok na podporu
-outdated-version-warning = Používate staršiu verziu EosOS Linux ISO, zvážte použitie najnovšej verzie pre inštalácie
+outdated-version-warning = Používate staršiu verziu Core Linux ISO, zvážte použitie najnovšej verzie pre inštalácie
 testing-iso-warning = Používate testovacie ISO, testovacie ISO nie sú považované za stabilné a pripravené na použitie
 tweaksbrowser-label = Aplikácie/Vylepšenia
 appbrowser-label = Inštalovať aplikácie
 launch-start-label = Developed by CachyOS
-welcome-title = Vitajte v EosOS Linux!
+welcome-title = Vitajte v Core Linux!
 welcome-body =
     Ďakujeme, že ste sa pridali!
-    My, vývojári EosOS Linux, vitame vás. Odkazy nižšie vám pomôžu s vaším novým operačným systémom.
+    My, vývojári Core Linux, vitame vás. Odkazy nižšie vám pomôžu s vaším novým operačným systémom.

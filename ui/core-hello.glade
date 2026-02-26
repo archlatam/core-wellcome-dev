@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Generated with glade 3.40.0
 
-Copyright (C) 2021-2026 EosOS Linux team
+Copyright (C) 2021-2026 Core Linux team
 
-This file is part of eos-wellcome.
+This file is part of core-wellcome.
 
-eos-wellcome is free software: you can redistribute it and/or modify
+core-wellcome is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-eos-wellcome is distributed in the hope that it will be useful,
+core-wellcome is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with eos-wellcome.  If not, see <http://www.gnu.org/licenses/>.
+along with core-wellcome.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<interface domain="eos-wellcome">
+<interface domain="core-wellcome">
   <requires lib="gtk+" version="3.20"/>
   <!-- interface-css-provider-path style.css -->
   <!-- interface-license-type gplv3 -->
   <!-- interface-name eos-wellcome -->
-  <!-- interface-copyright 2021-2026 EosOS Linux team -->
+  <!-- interface-copyright 2021-2026 Core Linux team -->
   <object class="GtkImage" id="abouticon">
     <property name="visible">True</property>
     <property name="can-focus">False</property>
@@ -81,7 +81,7 @@ along with eos-wellcome.  If not, see <http://www.gnu.org/licenses/>.
                 <property name="visible">True</property>
                 <property name="can-focus">True</property>
                 <property name="has-focus">True</property>
-                <property name="label" translatable="yes">Welcome to EosOS Linux!</property>
+                <property name="label" translatable="yes">Welcome to Core Linux!</property>
                 <attributes>
                   <attribute name="weight" value="bold"/>
                   <attribute name="scale" value="2"/>
@@ -99,7 +99,7 @@ along with eos-wellcome.  If not, see <http://www.gnu.org/licenses/>.
                 <property name="can-focus">False</property>
                 <property name="label" translatable="yes">Thank you for joining our community!
 
-We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as much as we enjoy building it. The links below will help you get started with your new operating system. So enjoy the experience, and don't hesitate to send us your feedback.</property>
+We, the Core Linux Developers, hope that you will enjoy using Core Linux as much as we enjoy building it. The links below will help you get started with your new operating system. So enjoy the experience, and don't hesitate to send us your feedback.</property>
                 <property name="justify">fill</property>
                 <property name="wrap">True</property>
                 <property name="width-chars">1</property>
@@ -304,17 +304,17 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
                       <!-- <item id="fr">Français</item> -->
                       <!-- <item id="he">עברית‎</item> -->
                       <!-- <item id="hu">Magyar</item> -->
-                      <item id="it">Italiano</item>
+                      <!-- <item id="it">Italiano</item> -->
                       <!-- <item id="nb">Norsk Bokmål</item> -->
                       <!-- <item id="nl">Nederlands</item> -->
                       <!-- <item id="pl">Polski</item> -->
                       <item id="pt-BR">Português Brasileiro</item>
-                      <item id="ru">Русский</item>
+                      <!-- <item id="ru">Русский</item> -->
                       <!-- <item id="sk">Slovenčina</item> -->
                       <!-- <item id="sv">Svenska</item> -->
                       <!-- <item id="tr">Türkçe</item> -->
                       <!-- <item id="vi">tiếng Việt</item> -->
-                      <item id="zh-CN">简体中文</item>
+                      <!-- <item id="zh-CN">简体中文</item> -->
                     </items>
                     <signal name="changed" handler="on_languages_changed" swapped="no"/>
                   </object>
@@ -339,10 +339,10 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
                     <property name="position">1</property>
                   </packing>
                 </child>
-                <!-- <child>
+                 <child>
                   <object class="GtkSwitch" id="autostart">
                     <property name="name">autostart</property>
-                    <property name="visible">True</property>
+                    <property name="visible">true</property>
                     <property name="can-focus">True</property>
                     <property name="valign">center</property>
                     <property name="vexpand">True</property>
@@ -353,7 +353,7 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
                     <property name="fill">True</property>
                     <property name="position">2</property>
                   </packing>
-                </child> -->
+                </child>
               </object>
               <packing>
                 <property name="left-attach">0</property>
@@ -445,7 +445,7 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
                     <property name="width-request">30</property>
                     <property name="height-request">30</property>
                     <property name="name">forum</property>
-                    <property name="visible">true</property>
+                    <property name="visible">false</property>
                     <property name="can-focus">False</property>
                     <property name="receives-default">True</property>
                     <property name="image">discord_img</property>
@@ -514,7 +514,7 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
       <object class="GtkHeaderBar" id="headerbar">
         <property name="visible">True</property>
         <property name="can-focus">False</property>
-        <property name="title">EosOS Linux Welcome</property>
+        <property name="title">Core Linux Welcome</property>
         <property name="show-close-button">True</property>
         <child>
           <placeholder/>

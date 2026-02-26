@@ -37,7 +37,7 @@ impl HelloWindow {
         );
 
         // Init window
-        let builder: Builder = Builder::from_resource(&format!("{RESPREFIX}/ui/eos-hello.glade"));
+        let builder: Builder = Builder::from_resource(&format!("{RESPREFIX}/ui/core-hello.glade"));
 
         let main_window: Window =
             builder.object("window").expect("Could not get the object window");
@@ -45,7 +45,7 @@ impl HelloWindow {
 
         // Subtitle of headerbar
         let header: HeaderBar = builder.object("headerbar").expect("Could not get the headerbar");
-        header.set_subtitle(Some("EosOS Linux"));
+        header.set_subtitle(Some("Core Linux"));
 
         // Load images
         let logo_path = format!("{}/{APP_ID}.svg", preferences["logo_path"].as_str().unwrap());
@@ -63,7 +63,7 @@ impl HelloWindow {
             // let image: gtk::Image = builder.object(image_id.as_str()).unwrap();
             // image.set_from_resource(Some(&icon_path));
             if let Some(image) = builder.object::<gtk::Image>(image_id.as_str()) {
-               image.set_from_resource(Some(&icon_path));
+                image.set_from_resource(Some(&icon_path));
             }
         }
 
@@ -192,9 +192,9 @@ impl HelloWindow {
         ])
         // Translators: Replace "translator-credits" with your names. Put a comma between.
         .translator_credits("translator-credits")
-        .copyright("2021-2026 EosOS Linux team")
+        .copyright("2021-2026 Core Linux team")
         .license_type(gtk::License::Gpl30)
-        .website("https://eososlinux.github.io/")
+        .website("https://archlatam.github.io/")
         .website_label("GitHub")
         .build();
 

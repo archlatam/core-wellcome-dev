@@ -1,4 +1,4 @@
-<big>EosOS Linux 2.2</big>
+<big>Core Linux 2.2</big>
 
 Este marca nuestro segundo release, optimizaciones y otras mejoras.
 
@@ -18,15 +18,14 @@ sudo pacman -Syu
 
 Obtén tu copia de la última ISO de nuestros espejos o de SourceForge:
 
-* sourceforge: https://sourceforge.net/projects/eososlinux/files/eososlinux/EosOS-kde-desktop-202602-x86_64.iso/download
+* sourceforge: /download
 
 <b>Apóyanos:</b>
 
-Tus contribuciones nos ayudan a mantener nuestros servidores. Considera apoyar a EosOS Linux a través de:
+Tus contribuciones nos ayudan a mantener nuestros servidores. Considera apoyar a Core Linux a través de:
 
-* GitHub: https://github.com/eososlinux
-* PayPal: https://paypal.me/eososlinux?country.x=AR&locale.x=es_XC
+* GitHub: https://github.com/archlatam
 
 ¡Gracias por tu apoyo!
 
-<b>El Equipo de EosOS Linux</b>
+<b>El Equipo de Core Linux</b>

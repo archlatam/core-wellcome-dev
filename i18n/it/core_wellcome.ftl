@@ -1,6 +1,6 @@
 # About dialog
-about-dialog-title = EosOS Linux Hello
-about-dialog-comments = Schermata di benvenuto per EosOS Linux
+about-dialog-title = Core Linux Hello
+about-dialog-comments = Schermata di benvenuto per Core Linux
 
 # Tweaks page
 tweaks = Personalizzazioni
@@ -56,12 +56,12 @@ section-project = PROGETTO
 # Main Page (body)
 offline-error = Impossibile avviare l'installazione online! Connessione a internet assente
 unsupported-hw-warning = Si sta tentando di effettuare l'installazione su un hardware non supportato dall'ISO corrente; l'installazione non potrà beneficiare dell'assistenza
-outdated-version-warning = Stai usando una versione obsoleta dell'ISO di EosOS Linux, considera di utilizzare l'ultima versione per le installazioni
+outdated-version-warning = Stai usando una versione obsoleta dell'ISO di Core Linux, considera di utilizzare l'ultima versione per le installazioni
 testing-iso-warning = Stai usando una ISO di test, le ISO di test non sono considerate stabili e pronte per l'uso
 tweaksbrowser-label = Applicazioni/Personalizzazioni
 appbrowser-label = Installa Applicazioni
 launch-start-label = Sviluppato da CachyOS
-welcome-title = Benvenuto in EosOS Linux!
+welcome-title = Benvenuto in Core Linux!
 welcome-body =
     Grazie per unirti a noi!
-    Noi, gli sviluppatori di EosOS Linux, ti diamo il benvenuto. I link in basso ti aiuteranno con il tuo nuovo sistema operativo.
+    Noi, gli sviluppatori di Core Linux, ti diamo il benvenuto. I link in basso ti aiuteranno con il tuo nuovo sistema operativo.

@@ -37,4 +37,4 @@ CachyOS 不仅仅是一个操作系统，它还是一个充满活力的社区，
 我们的大部分开发都是在 QT、C++、Python、HTML5/CSS 和 BASH 中完成的。我们还使用 Git 进行版本控制和 PKGBUILDs 进行打包。如果您对这些技术感到舒适，那去看看代码。如果您认为您可以改进我们的应用程序或编写新的应用程序，请不要犹豫，赶快Fork 我们的 git 仓库并提交补丁。
 
 <b>Support</b>
-- <a href="https://discord.gg/4r8AmxSB2B">Discord</a> - Official Discord for EosOS Linux.
+- <a href="https://discord.gg/4r8AmxSB2B">Discord</a> - Official Discord for Core Linux.

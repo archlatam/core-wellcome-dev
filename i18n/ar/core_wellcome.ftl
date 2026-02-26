@@ -82,7 +82,7 @@ calamares-install-type = نوع تثبيت Calamares
 # Main Page (body)
 offline-error = تعذر بدء التثبيت عبر الإنترنت! لا يوجد اتصال بالإنترنت
 unsupported-hw-warning = أنت تحاول التثبيت على جهاز غير مدعوم بواسطة ISO الحالي، ولن يكون تثبيتك مؤهلاً للدعم
-outdated-version-warning = أنت تستخدم إصدارًا أقدم من EosOS Linux ISO، يُرجى التفكير في استخدام أحدث إصدار للتثبيتات
+outdated-version-warning = أنت تستخدم إصدارًا أقدم من Core Linux ISO، يُرجى التفكير في استخدام أحدث إصدار للتثبيتات
 testing-iso-warning = أنت تستخدم نسخة ISO تجريبية، ونسخ ISO التجريبية لا تعتبر مستقرة وجاهزة للاستخدام
 tweaksbrowser-label = تطبيقات/تطويعات
 appbrowser-label = ثبّت تطبيقات
@@ -90,4 +90,4 @@ launch-start-label = Developed by CachyOS
 welcome-title = مرحبًا بك في كاشي أو إس!
 welcome-body =
     شكراً لانضمامك!
-    نحن، مطورو EosOS Linux، نرحب بك. الروابط أدناه ستساعدك في نظام التشغيل الجديد.
+    نحن، مطورو Core Linux، نرحب بك. الروابط أدناه ستساعدك في نظام التشغيل الجديد.

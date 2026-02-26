@@ -122,8 +122,8 @@ pub fn handle_dns_command(action: DnsAction) -> Result<()> {
 
 pub fn handle_launch_command(app: AppToLaunch) -> Result<()> {
     let (app_name, bin_name) = match app {
-        AppToLaunch::PackageInstaller => ("EosOS Package Installer", "eos-pi"),
-        AppToLaunch::KernelManager => ("EosOS Kernel Manager", "eos-kernel-manager"),
+        AppToLaunch::PackageInstaller => ("Core Package Installer", "eos-pi"),
+        AppToLaunch::KernelManager => ("Core Kernel Manager", "eos-kernel-manager"),
     };
 
     println!("Launching {}...", app_name.bold());

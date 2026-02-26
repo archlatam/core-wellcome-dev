@@ -1,6 +1,6 @@
 # About dialog
-about-dialog-title = EosOS Linux – Hallo
-about-dialog-comments = Welkomskerm vir EosOS Linux
+about-dialog-title = Core Linux – Hallo
+about-dialog-comments = Welkomskerm vir Core Linux
 
 # Tweaks page
 tweaks = Aanpassings
@@ -76,12 +76,12 @@ calamares-install-type = Calamares installeer tipe
 # Main Page (body)
 offline-error = Kan nie aanlyn installasie begin nie! Geen internetverbinding nie
 unsupported-hw-warning = Jy probeer om te installeer op hardeware wat nie deur die huidige ISO ondersteun word nie, jou installasie sal nie vir ondersteuning in aanmerking kom nie
-outdated-version-warning = Jy gebruik 'n ouer weergawe van EosOS Linux ISO, oorweeg dit om die nuutste weergawe vir installasies te gebruik
+outdated-version-warning = Jy gebruik 'n ouer weergawe van Core Linux ISO, oorweeg dit om die nuutste weergawe vir installasies te gebruik
 testing-iso-warning = Jy gebruik 'n toets-ISO, toets-ISO's word nie as stabiel en gereed vir gebruik beskou nie
 tweaksbrowser-label = Toepassings/aanpassings
 appbrowser-label = Installeer Toepassings
 launch-start-label = Developed by CachyOS
-welcome-title = Welkom by EosOS Linux!
+welcome-title = Welkom by Core Linux!
 welcome-body =
     Dankie dat jy by ons aangesluit het! 
-    Ons, die EosOS Linux-ontwikkelaars, heet jou welkom. Die skakels hieronder sal jou help met jou nuwe bedryfstelsel.
+    Ons, die Core Linux-ontwikkelaars, heet jou welkom. Die skakels hieronder sal jou help met jou nuwe bedryfstelsel.
