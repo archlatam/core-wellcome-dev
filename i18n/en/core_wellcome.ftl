@@ -1,0 +1,97 @@
+# About dialog
+about-dialog-title = EosOS Linux Hello
+about-dialog-comments = Welcome screen for EosOS Linux
+
+# Tweaks page
+tweaks = Tweaks
+fixes = Utilities
+applications = Applications
+removed-db-lock = Pacman db lock was removed!
+lock-doesnt-exist = Pacman db lock does not exist!
+orphans-not-found = No orphan packages found!
+package-not-installed = Package '{$package_name}' has not been installed!
+gaming-package-installed = Gaming packages already installed!
+snapper-package-installed = 'cachyos-snapper-support' package already installed!
+winboat-package-installed = Winboat packages already installed!
+
+# Application Browser page
+advanced-btn = advanced
+reset-btn = reset
+update-system-app-btn = UPDATE SYSTEM
+application-column = Application
+description-column = Description
+install-remove-column = Install/Remove
+advanced-btn-tooltip = Toggle an extended selection of packages
+reset-btn-tooltip = Reset your current selections...
+update-system-app-btn-tooltip = Apply your current selections to the system
+
+# Dns Connections page
+dns-settings = DNS Settings
+select-connection = Select Connection:
+select-dns-server = Select DNS server:
+apply = Apply
+reset = Reset
+dns-server-changed = DNS server was successfully changed!
+dns-server-failed = Failed to set DNS server!
+dns-server-reset = DNS server has been reset!
+dns-server-reset-failed = Failed to reset DNS server!
+winboat-install-failed = Failed to install Winboat!
+
+# Tweaks page (tweaks)
+tweak-enabled-title = {$tweak} enabled
+tweak-psd-tooltip = Use RAM for browser profiles (faster, less disk wear)
+tweak-oomd-tooltip = Proactively kill processes during low memory to prevent freezes
+tweak-bpftune-tooltip = Automatically tune system network
+tweak-bluetooth-tooltip = Enable support for Bluetooth wireless devices (mice, audio, etc.)
+tweak-ananicycpp-tooltip = Auto-adjust process priorities for better system responsiveness
+tweak-cachyupdate-tooltip = Update notifier in tray
+
+# Tweaks page (fixes)
+remove-lock-title = Remove db lock
+reinstall-title = Reinstall all packages
+reset-keyrings-title = Reset keyrings
+update-system-title = System update
+remove-orphans-title = Remove orphans
+clear-pkgcache-title = Clear package cache
+rankmirrors-title = Rank mirrors
+dnsserver-title = Change DNS server
+show-kwinw-debug-title = Show kwin(Wayland) debug window
+install-gaming-title = Install Gaming packages
+install-snapper-title = Install Snapper support
+install-winboat-title = Install Winboat
+
+# Main Page (buttons)
+button-about-tooltip = About
+button-web-resource-tooltip = Web resource
+button-development-label = Development
+button-software-label = Software
+button-donate-label = Donate
+button-forum-label = Discord
+button-installer-label = Launch installer
+button-involved-label = Support 
+button-readme-label = Read me
+button-release-info-label = Release info
+button-wiki-label = Wiki
+
+# Main Page (sections)
+section-docs = DOCUMENTATION
+section-installer = INSTALLATION
+section-support = SUPPORT
+section-project = PROJECT
+
+# Main Page (launch installer)
+recommended = recommended
+calamares-install-type = Calamares install type
+
+# Main Page (body)
+offline-error = Unable to start online installation! No internet connection
+unsupported-hw-warning = You are attempting to install on hardware not supported by the current ISO, your installation will not be eligible for support
+outdated-version-warning = You are using an older version of EosOS Linux ISO, please consider using latest version for installations
+testing-iso-warning = You are using a testing ISO, testing ISOs are not considered stable and ready for use
+tweaksbrowser-label = Apps/Tweaks
+appbrowser-label = Install Apps
+launch-start-label = Developed by CachyOS
+welcome-title = Welcome to EosOS Linux!
+welcome-body =
+    Thanks for joining us!
+    We, the EosOS Linux Developers, welcome you. The links below will help you with your new operating system.

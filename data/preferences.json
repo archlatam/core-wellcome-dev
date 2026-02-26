@@ -1,0 +1,17 @@
+{
+    "default_locale": "en",
+    "autostart_path": "~/.config/autostart/core-wellcome.desktop",
+    "data_path": "/usr/share/core-wellcome/data/",
+    "desktop_path": "/usr/share/applications/core-wellcome.desktop",
+    "installer_path": "/usr/bin/calamares",
+    "live_path": "/run/archiso",
+    "logo_path": "/usr/share/icons/hicolor/scalable/apps/",
+    "save_path": "~/.config/core-wellcome.json",
+    "urls": {
+        "github": "https://github.com/eososlinux",
+        "forum": "https://discord.gg/4r8AmxSB2B",
+        "wiki": "https://github.com/eososlinux/",
+        "development": "https://github.com/eososlinux",
+        "donate": "https://paypal.me/eososlinux?country.x=AR&locale.x=es_XC"
+    }
+}

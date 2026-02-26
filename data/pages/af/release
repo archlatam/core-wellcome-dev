@@ -1,0 +1,17 @@
+<big>EosOS Linux 2.2</big>
+This marks our second release, optimizations and other improvements.
+One of the most notable changes is the implementation of snapper. Currently, profiling is done on an Intel and Amd machine, but in the future, we plan to support merging multiple profiles for even broader optimization.
+Finally, this release includes several important fixes:
+- Internet connection check has been fixed to ensure smooth installation.
+<big>Bug fixes:</big>
+Just keep your system updated with the following command:
+sudo pacman -Syu
+<big>Download:</big>
+Get your copy of the latest ISO from our mirrors or SourceForge:
+* sourceforge: https://sourceforge.net/projects/eososlinux/files/eososlinux/EosOS-kde-desktop-202602-x86_64.iso/download
+<big>Support Us:</big>
+Your contributions help us maintain our servers. Consider supporting EosOS Linux through:
+* GitHub: https://github.com/eososlinux
+* PayPal: https://paypal.me/eososlinux?country.x=AR&locale.x=es_XC
+Thank you for your support!
+<b>The EosOS Linux Team</b>
