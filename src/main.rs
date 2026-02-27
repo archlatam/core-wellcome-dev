@@ -38,7 +38,7 @@ use serde_json::json;
 use tracing::{debug, error};
 use unic_langid::LanguageIdentifier;
 
-const RESPREFIX: &str = "/org/eoslinux/welcome";
+const RESPREFIX: &str = "/org/corelinux/welcome";
 
 static G_SAVE_JSON: LazyLock<Mutex<serde_json::Value>> = LazyLock::new(|| {
     let preferences = get_preferences();
