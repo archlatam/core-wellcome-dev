@@ -13,7 +13,7 @@ fn main() {
     let out_dir = env::var("OUT_DIR").unwrap();
 
     let status = Command::new("glib-compile-resources")
-        .arg(format!("--target={out_dir}/eos-wellcome.gresource"))
+        .arg(format!("--target={out_dir}/core-wellcome.gresource"))
         .arg("core-wellcome.gresource.xml")
         .status()
         .unwrap();
