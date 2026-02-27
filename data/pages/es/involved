@@ -24,10 +24,6 @@ Si has notado algo que no funciona correctamente mientras usas Core Linux, házn
 
 La gran mayoría de las mejoras incluidas en cada release vienen de la comunidad. Si hay algo que crees que falta o que podría hacerse mejor, por favor dínoslo. Ya sea la inclusión de un driver de hardware faltante, o una aplicación de software que debería ser parte de una instalación base, o si tienes cualquier otra idea sobre cómo mejorar Core, siempre estamos interesados en escucharlas.
 
-<b>Código</b>
-
-La mayor parte de nuestro desarrollo se hace en QT, C++, Python, HTML5/CSS y BASH. También usamos Git para control de versiones y PKGBUILDs para empaquetado. Si te sientes cómodo con estas tecnologías, no dudes en echar un vistazo al código. Si crees que puedes mejorar nuestras aplicaciones o escribir otras nuevas, no dudes en sugerir parches o hacer un fork de nuestros repositorios git.
-
 <b>Arte</b>
 
 Si eres talentoso en diseño gráfico y estás dispuesto a contribuir al proyecto, por favor envíanos tus creaciones y obras de arte. Ya sea un simple fondo de pantalla, un conjunto de iconos, una pantalla de inicio, o incluso un nuevo logo, siempre estamos interesados en escuchar sobre nuevo arte.

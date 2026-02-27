@@ -6,7 +6,7 @@ Uno de los cambios más notables es la implementación de snapper. Actualmente, 
 
 Por último, este release incluye varias correcciones importantes:
 
-- La verificación de conexión a internet ha sido corregida para asegurar una instalación fluida.
+- Incluye soporte para snapper, tus instantanes seran agregadas cuando ejecutes update-grub.
 
 <b>Correcciones de errores:</b>
 

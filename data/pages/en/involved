@@ -24,9 +24,6 @@ If you've noticed something that doesn't work properly while using Core Linux, l
 
 The vast majority of improvements included in each release come from the community. If there's something you think is missing or could be done better, please tell us. Whether it's the inclusion of a missing hardware driver, or a software application that should be part of a stock installation, or if you have any other ideas on how to make Core better, we're always interested in hearing them.
 
-<b>Code</b>
-
-Most of our development is done in QT, C++, Python, HTML5/CSS and BASH. We also use Git for version control and PKGBUILDs for packaging. If you're comfortable with these technologies, don't hesitate to have a look at the code. If you think you can improve our applications or write new ones, don't hesitate to suggest patches or fork our git repositories.
 
 <b>Art</b>
 
